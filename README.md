@@ -1,7 +1,9 @@
 # Arduino-HTTP-TTY-TCL
-A web and telnet server with support for user sessions and TCL scripting
+A web and telnet server with support for user sessions and TCL scripting.
 
-This project is aimed at the WeMos D1 Arduino compatible board based on the ESP8266 chip and includes integrated WiFi functionality. An SD Card shield module will be used to provide a filesystem to store data files used by the Arduino at runtime.
+This is intented to be used as a starting point for creating something amazing. It is never going to be a real functional project in its own right. Think of it as a launchpad or foundation to build your own project on top of.
+
+This project is aimed at the WeMos D1 Arduino compatible board based on the ESP8266 chip and includes integrated WiFi functionality. An SD Card shield module will be used to provide a filesystem to store data files used by the Arduino at runtime. It may work on other boards and in different configurations with some additional work.
 
 The initial goal is to allow access to a TCL shell via the Arduino IDE USB terminal.
 
